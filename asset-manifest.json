@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/greenwhale00.github.io/beautyshop/static/css/main.073c9b0a.css",
-    "main.js": "/greenwhale00.github.io/beautyshop/static/js/main.30244c3e.js",
-    "static/js/787.09d98ea2.chunk.js": "/greenwhale00.github.io/beautyshop/static/js/787.09d98ea2.chunk.js",
-    "static/media/logo.svg": "/greenwhale00.github.io/beautyshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/greenwhale00.github.io/beautyshop/index.html",
-    "main.073c9b0a.css.map": "/greenwhale00.github.io/beautyshop/static/css/main.073c9b0a.css.map",
-    "main.30244c3e.js.map": "/greenwhale00.github.io/beautyshop/static/js/main.30244c3e.js.map",
-    "787.09d98ea2.chunk.js.map": "/greenwhale00.github.io/beautyshop/static/js/787.09d98ea2.chunk.js.map"
+    "main.css": "/beautyshop/static/css/main.073c9b0a.css",
+    "main.js": "/beautyshop/static/js/main.c2a95bd4.js",
+    "static/js/787.09d98ea2.chunk.js": "/beautyshop/static/js/787.09d98ea2.chunk.js",
+    "static/media/logo.svg": "/beautyshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/beautyshop/index.html",
+    "main.073c9b0a.css.map": "/beautyshop/static/css/main.073c9b0a.css.map",
+    "main.c2a95bd4.js.map": "/beautyshop/static/js/main.c2a95bd4.js.map",
+    "787.09d98ea2.chunk.js.map": "/beautyshop/static/js/787.09d98ea2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.30244c3e.js"
+    "static/js/main.c2a95bd4.js"
   ]
 }
