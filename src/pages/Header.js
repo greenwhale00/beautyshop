@@ -1,12 +1,10 @@
 import React from 'react'
 
-
-
-const Header = ({ data }) => {
+const Header = () => {
 
   return (
     <div>
-      {data.address}
+      I'm Header
     </div>
   )
 }
