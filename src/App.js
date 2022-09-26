@@ -1,9 +1,27 @@
+import React from 'react';
+import { Routes, Route } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
-import React from 'react'
+import Header from './pages/Header';
+import Detail from './pages/Detail';
+import { company, content } from './data/data';
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+
+      <Header data={company} />
+
+      {
+        content.map(it => {
+          return <div key={it.id}>  <Link to={'/list/' + it.id}>{it.id}</Link></div>
+        })
+      }
+
+      <Routes>
+        <Route path='/list/:num' element={<Detail list={content} />} />
+      </Routes>
+    </div>
   )
 }
 
